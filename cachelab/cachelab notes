@@ -1,0 +1,40 @@
+struct set {
+  line* lines;
+  unsigned line_count;
+}
+
+//to update LRU:
+unsigned long tick = 0;
+tick++
+line.last_accessed = tick;
+//
+
+
+
+struct line_t {
+  bool valid;
+  unsigned long tag;
+  unsigned long last_accessed;
+}
+
+typedef struct line_t line;
+
+set make_set(int num_lines) {
+  set ret_val;
+  ret_val.lines = (line*)malloc(num_lines * sizeof(line));
+  ret_val.line_count = numm_lines;
+  return ret_val;
+}
+
+
+char mode;
+unsigned long address;
+unsigned size;
+
+sscanf(" %c %lx,%x\n", &mode, &address, &size);
+
+unsigned long tag = address >> (s + b);
+unsigned long set_index = (address << t) >> (t + b);
+//unsigned long blocK_offset= 
+
+

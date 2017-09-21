@@ -1,0 +1,219 @@
+600aa0 || 30055 miss 
+7ff000398 || 3ff8001c miss 
+7ff000390 || 3ff8001c miss 
+7ff000378 || 3ff8001b miss 
+7ff000370 || 3ff8001b miss 
+7ff000384 || 3ff8001c miss 
+7ff000384 || hit 
+7ff000388 || 3ff8001c miss 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a20 || 30051 miss 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a60 || 30053 miss 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a24 || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a70 || 30053 miss 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a28 || 30051 miss 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a80 || 30054 miss 30055 eviction 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a2c || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a90 || 30054 miss 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit hit 
+7ff000384 || hit 
+7ff000388 || hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a30 || 30051 miss 3ff8001c eviction 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a64 || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a34 || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a74 || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a38 || 30051 miss 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a84 || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a3c || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a94 || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit hit 
+7ff000384 || hit 
+7ff000388 || hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a40 || 30052 miss 30053 eviction 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a68 || 30053 miss 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a44 || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a78 || 30053 miss 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a48 || 30052 miss 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a88 || 30054 miss 30052 eviction 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a4c || 30052 miss 30054 eviction 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a98 || 30054 miss 3ff8001c eviction 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit hit 
+7ff000384 || hit 
+7ff000388 || hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a50 || 30052 miss 30051 eviction 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a6c || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a54 || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a7c || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a58 || 30052 miss 30051 eviction 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a8c || 30054 miss 30052 eviction 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit 
+7ff000378 || hit 
+7ff000388 || hit 
+600a5c || hit 
+7ff00038c || hit 
+7ff000388 || hit 
+7ff000370 || hit 
+7ff000384 || hit 
+7ff00038c || hit 
+600a9c || hit 
+7ff000388 || hit hit 
+7ff000388 || hit 
+7ff000384 || hit hit 
+7ff000384 || hit 
+7ff000390 || 3ff8001c miss 30054 eviction 
+7ff000398 || 3ff8001c miss 30053 eviction 
+600aa0 || 30055 miss 30051 eviction 
+hits:210 misses:28 evictions:12
