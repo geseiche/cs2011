@@ -1,0 +1,23 @@
+Phase 1:
+- fill buffer size of getbuf with random
+- take address of touch1 and reverse it 2 digits at a time
+- concat with other files
+cat ctarget.l1 | ./hex2raw | ./ctarget
+
+Phase 2:
+- fill buffer size of getbuf with random
+- write the assembly to move cookie into %rdi and return to touch2
+mov $0x117c81f7 $rdi
+ret 
+- put return addresses on stack
+- find address of inserted code
+- first return address should be address of inserted code
+
+Phase 3:
+- string representation of cookie is 49, 55, 55, 99, 56, 49, 102, 55, 0 (has new line)
+	31 37 37 63 38 31 66 37 00
+- same as above, but pass a string
+
+Phase 4:
+- line 53, 48 89 c7 c3, moves rax to rdi and returns
+- line 2d, 58 90 90 c3, pops off the stack in rax and returns
