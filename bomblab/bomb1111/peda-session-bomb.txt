@@ -1,0 +1,5 @@
+break explode_bomb
+break phase3
+break phase4
+break phase5
+

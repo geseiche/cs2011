@@ -1,0 +1,5 @@
+Never interrupt your enemy when he is making a mistake.
+5 5 10 15 25 40
+3 -237
+12 -1
+60 46

@@ -1,0 +1,60 @@
+ebx = 90
+eax = 3rd input
+eax is compared to 809, exploding if not equal
+2nd input compared to bl, which should hold 90
+
+esi = 2nd input
+ebp = 2nd input
+eax = 0xe = 14
+
+eax = 6, 97 'a', 0, 97 'a', 0, 0, 6
+ebx = 0, 1, 2, 3, 4, 5, 6
+rbp = 0, 97 'a',
+rdi = 97 'a', 114 'r', 
+r12 = 97 'a', 
+r12d = 6, 
+rsi = 109 'm', 
+edx = 77 'w', 
+rsp = 114 'r', 
+
+sne
+rbx = 114 'r',
+rbp = 109 'm',
+rdi = 109 'm',
+eax = 114 'r', 
+
+input meteor gets
+strings_not_equal(tfgfye, meteor)
+
+w=>m
+r=>e
+m=>t
+i=>o
+a=>r
+
+
+input must be less than or equal to 6 (unsigned)
+ebp = 1, 2, 3, 4, 5, 6
+rax = 0, 1st input, 5, 1,2
+rsp = 1st input, 
+ebx = 1, 2, 3, 4, 5, 6
+rdx = 5
+esi = 0,
+r12 = 6
+rcx = 0,
+
+365124
+325164
+325146
+345162
+345126
+246135
+
+4 8184
+3 b555
+1 3bfc
+5 4a8c
+6 78f4
+2 b19e
+
+3 2 4 6 5 1
